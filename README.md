@@ -108,6 +108,9 @@
 **v4.4.0（替换字体）**
 ![v440_with_patch](docs/v440_with_patch.jpg)
 
+**v4.4.0（替换字体+强行替换）**
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/73959605-0242-4fae-be14-1cf893c6b917" />
+
 
 
 # 
