@@ -1,3 +1,7 @@
+
+![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/kurikomoe/TouhouMystiaIzakaya_FontRestore/latest/total?style=flat&label=%E4%B8%8B%E8%BD%BD%E9%87%8F)
+
+
 > [!CAUTION]
 >
 > 目前仅适用于 v4.4.0 版本
